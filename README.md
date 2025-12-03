@@ -24,7 +24,6 @@ This project is built using **HTML**, **CSS**, and **JavaScript** and features a
 | **CSS3**  | Styling & layout |
 | **JavaScript (Vanilla JS)** | Zodiac logic & DOM manipulation |
 
-}
 
 ---
 

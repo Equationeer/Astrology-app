@@ -24,8 +24,6 @@ This project is built using **HTML**, **CSS**, and **JavaScript** and features a
 | **CSS3**  | Styling & layout |
 | **JavaScript (Vanilla JS)** | Zodiac logic & DOM manipulation |
 
-if ((month == 3 && day >= 21) || (month == 4 && day <= 19)) {
-    zodiac = "Aries";
 }
 
 ---
